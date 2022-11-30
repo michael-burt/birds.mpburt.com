@@ -31,8 +31,7 @@ enableEmoji = "true"
 
 [languages]
   [languages.en]
-    title = "Michael Burt"
-    subtitle = "a blog"
+    title = "michael's bird journal"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
