@@ -1,6 +1,3 @@
-| Bird | Date | Location |  With   |
-|:----:|:----:|:--------:|:-------:|
-|  A1  |  A2  |    A3    | Ap(1-3) |
-|  A4  |  A5  |    A6    | Ap(4-6) |
-|  B1  |  B2  |    B3    | Bp(1-3) |
-|  B4  |  B5  |    B6    | Bp(4-6) |
+Hello. My name is Michael and this is my bird journal.
+
+One day I will develop some photography skills and have some pictures to share as well.

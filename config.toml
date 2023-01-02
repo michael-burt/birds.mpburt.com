@@ -56,9 +56,9 @@ enableEmoji = "true"
         name = "Life List"
         url = "/life-list"
       [[languages.en.menu.main]]
-        identifier = "reports"
-        name = "Reports"
-        url = "/reports"
+        identifier = "about"
+        name = "About"
+        url = "/about"
 
 
 [markup]

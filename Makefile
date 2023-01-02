@@ -1,0 +1,2 @@
+hugo:
+	hugo server -v
